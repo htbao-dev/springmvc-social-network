@@ -1,0 +1,46 @@
+.page-content-container{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 70px;
+}
+
+#home-container{
+    height: 600px;
+}
+
+#list-post-container{
+    background-color: #fff;
+    overflow: scroll;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#detail-post-container{
+    margin-left: 40px;
+    background-color: #fff;
+    overflow: scroll;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.postUserAvatar{
+    object-fit: cover;
+}
+
+#delete-btn{
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+
+.post-time{
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.post-author-name{
+    font-weight: bold;
+}
+
+.post-content{
+    margin-left: 10px;
+}

@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/bo/PostBO.java=UTF-8
+encoding//src/main/java/bo/UserBO.java=UTF-8
+encoding//src/main/java/dao/PostDAO.java=UTF-8
+encoding//src/main/java/husc/socialnetwork/config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/husc/socialnetwork/controller/HomeController.java=UTF-8
+encoding//src/main/java/husc/socialnetwork/controller/NavbarController.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/errorPage.jsp=UTF-8
+encoding/<project>=UTF-8
